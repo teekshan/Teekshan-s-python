@@ -1,4 +1,4 @@
-### Hi there 👋
+### HEY THERE 👋 LOOKING FOR CODES😃
 
 <!--
 **teekshan/teekshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

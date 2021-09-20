@@ -6,4 +6,4 @@ def cost():
     total_cost = area_of_floor*enter_cost
     print("total cost: ",total_cost)
     
-def cost()
+cost()
